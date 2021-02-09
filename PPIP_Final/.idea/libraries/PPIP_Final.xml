@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PPIP_Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/PPIP_Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
